@@ -91,3 +91,6 @@ float: left;
   background: #ccc;
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
